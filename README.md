@@ -14,8 +14,8 @@ always tired lol
 
 <div align=center>
   
-![](https://komarev.com/ghpvc/?username=your-github-asteriadeath&color=green)
+![](https://komarev.com/ghpvc/?username=your-github-an4rchqn4rch&color=green)
 
 <div align=center>
 
-![](https://github-readme-stats.vercel.app/api?username=Asteriadeath&show_icons=true&theme=synthwave)
+![](https://github-readme-stats.vercel.app/api?username=an4rchan4rch&show_icons=true&theme=synthwave)
